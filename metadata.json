@@ -1,0 +1,85 @@
+{
+  "n_train": 960,
+  "n_test": 240,
+  "n_soils": 6,
+  "n_classes": 7,
+  "fs": 30,
+  "max_len": 680,
+  "classes": [
+    "reach",
+    "penetrate",
+    "curl",
+    "lift",
+    "swing",
+    "dump",
+    "return"
+  ],
+  "soils": {
+    "dry_sand": {
+      "k_c": 0.99,
+      "k_phi": 1528.43,
+      "n": 1.0,
+      "c": 1.04,
+      "phi": 28.0,
+      "rho": 1590.0,
+      "label": 0.0
+    },
+    "wet_sand": {
+      "k_c": 4.45,
+      "k_phi": 1198.93,
+      "n": 1.0,
+      "c": 5.52,
+      "phi": 36.0,
+      "rho": 1810.0,
+      "label": 1.0
+    },
+    "clay_loam": {
+      "k_c": 13.32,
+      "k_phi": 1340.46,
+      "n": 0.6,
+      "c": 11.65,
+      "phi": 19.5,
+      "rho": 1540.0,
+      "label": 2.0
+    },
+    "silty_loam": {
+      "k_c": 5.95,
+      "k_phi": 1528.43,
+      "n": 0.7,
+      "c": 7.45,
+      "phi": 22.5,
+      "rho": 1420.0,
+      "label": 3.0
+    },
+    "gravel": {
+      "k_c": 1.4,
+      "k_phi": 3117.61,
+      "n": 0.95,
+      "c": 2.45,
+      "phi": 35.0,
+      "rho": 2010.0,
+      "label": 4.0
+    },
+    "wet_clay": {
+      "k_c": 31.0,
+      "k_phi": 1013.5,
+      "n": 0.5,
+      "c": 18.95,
+      "phi": 14.0,
+      "rho": 1820.0,
+      "label": 5.0
+    }
+  },
+  "excavator": {
+    "L1": 6.2,
+    "L2": 3.3,
+    "L3": 1.55,
+    "m_bucket": 1850.0,
+    "V_max": 1.42,
+    "p_hydr_nominal": 34300000.0,
+    "b": 0.45,
+    "piston_area": 0.0045,
+    "eta": 0.92,
+    "flow_rate": 0.0008
+  }
+}

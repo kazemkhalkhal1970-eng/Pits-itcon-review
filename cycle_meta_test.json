@@ -1,0 +1,2402 @@
+[
+  {
+    "soil_name": "dry_sand",
+    "volume_m3": 0.633881447835662,
+    "energy_J": 1381408.9846370749,
+    "max_pen_m": 0.6833126337162121,
+    "duration_s": 20.869473396693973,
+    "operator_style": 0.6889419306199593,
+    "cycle_idx": 160,
+    "n_frames": 626
+  },
+  {
+    "soil_name": "dry_sand",
+    "volume_m3": 0.6368296326275323,
+    "energy_J": 1378220.1722094626,
+    "max_pen_m": 0.6833126337162121,
+    "duration_s": 20.867457240566335,
+    "operator_style": 0.6312430213298634,
+    "cycle_idx": 161,
+    "n_frames": 626
+  },
+  {
+    "soil_name": "dry_sand",
+    "volume_m3": 0.625916972387152,
+    "energy_J": 1326475.7291662311,
+    "max_pen_m": 0.6833126337162121,
+    "duration_s": 20.04787701979586,
+    "operator_style": 0.4320217191511548,
+    "cycle_idx": 162,
+    "n_frames": 601
+  },
+  {
+    "soil_name": "dry_sand",
+    "volume_m3": 0.6312681078121068,
+    "energy_J": 1383940.0277952037,
+    "max_pen_m": 0.6833126337162121,
+    "duration_s": 20.907742323241852,
+    "operator_style": 0.6118901056157785,
+    "cycle_idx": 163,
+    "n_frames": 627
+  },
+  {
+    "soil_name": "dry_sand",
+    "volume_m3": 0.6342671945656918,
+    "energy_J": 1453062.4331131326,
+    "max_pen_m": 0.6833126337162121,
+    "duration_s": 21.94220491072494,
+    "operator_style": 0.6727436476808458,
+    "cycle_idx": 164,
+    "n_frames": 658
+  },
+  {
+    "soil_name": "dry_sand",
+    "volume_m3": 0.6338007892258682,
+    "energy_J": 1420383.881454613,
+    "max_pen_m": 0.6833126337162121,
+    "duration_s": 21.417129515956635,
+    "operator_style": 0.7404992124732737,
+    "cycle_idx": 165,
+    "n_frames": 642
+  },
+  {
+    "soil_name": "dry_sand",
+    "volume_m3": 0.6348375022931613,
+    "energy_J": 1415259.3750502737,
+    "max_pen_m": 0.6833126337162121,
+    "duration_s": 21.335558028482772,
+    "operator_style": 0.7087329062797806,
+    "cycle_idx": 166,
+    "n_frames": 640
+  },
+  {
+    "soil_name": "dry_sand",
+    "volume_m3": 0.6269867089783691,
+    "energy_J": 1225071.170846122,
+    "max_pen_m": 0.6833126337162121,
+    "duration_s": 18.566649995879878,
+    "operator_style": 0.3146631387267242,
+    "cycle_idx": 167,
+    "n_frames": 556
+  },
+  {
+    "soil_name": "dry_sand",
+    "volume_m3": 0.633095820186924,
+    "energy_J": 1348962.675580775,
+    "max_pen_m": 0.6833126337162121,
+    "duration_s": 20.498644077243608,
+    "operator_style": 0.4334250251295164,
+    "cycle_idx": 168,
+    "n_frames": 614
+  },
+  {
+    "soil_name": "dry_sand",
+    "volume_m3": 0.6320299212380714,
+    "energy_J": 1383395.1061073625,
+    "max_pen_m": 0.6833126337162121,
+    "duration_s": 20.980867362137836,
+    "operator_style": 0.5500615766267576,
+    "cycle_idx": 169,
+    "n_frames": 629
+  },
+  {
+    "soil_name": "dry_sand",
+    "volume_m3": 0.634583327839084,
+    "energy_J": 1277050.4780536504,
+    "max_pen_m": 0.6833126337162121,
+    "duration_s": 19.271134624182622,
+    "operator_style": 0.385241360471819,
+    "cycle_idx": 170,
+    "n_frames": 578
+  },
+  {
+    "soil_name": "dry_sand",
+    "volume_m3": 0.6367378582184751,
+    "energy_J": 1253141.3218086266,
+    "max_pen_m": 0.6833126337162121,
+    "duration_s": 18.930948789656195,
+    "operator_style": 0.31479008017214816,
+    "cycle_idx": 171,
+    "n_frames": 567
+  },
+  {
+    "soil_name": "dry_sand",
+    "volume_m3": 0.6276051326151784,
+    "energy_J": 1342296.244484396,
+    "max_pen_m": 0.6833126337162121,
+    "duration_s": 20.248965942401114,
+    "operator_style": 0.5861568274957143,
+    "cycle_idx": 172,
+    "n_frames": 607
+  },
+  {
+    "soil_name": "dry_sand",
+    "volume_m3": 0.629770939515906,
+    "energy_J": 1384404.156187503,
+    "max_pen_m": 0.6833126337162121,
+    "duration_s": 20.880288969306125,
+    "operator_style": 0.6971554369915313,
+    "cycle_idx": 173,
+    "n_frames": 626
+  },
+  {
+    "soil_name": "dry_sand",
+    "volume_m3": 0.6310786171761186,
+    "energy_J": 1182385.9653943107,
+    "max_pen_m": 0.6833126337162121,
+    "duration_s": 17.775338785514897,
+    "operator_style": 0.33534794464167295,
+    "cycle_idx": 174,
+    "n_frames": 533
+  },
+  {
+    "soil_name": "dry_sand",
+    "volume_m3": 0.6236179105487086,
+    "energy_J": 1378822.4251555665,
+    "max_pen_m": 0.6833126337162121,
+    "duration_s": 20.818557466032143,
+    "operator_style": 0.45559925860781386,
+    "cycle_idx": 175,
+    "n_frames": 624
+  },
+  {
+    "soil_name": "dry_sand",
+    "volume_m3": 0.6334246407089522,
+    "energy_J": 1395740.298350546,
+    "max_pen_m": 0.6833126337162121,
+    "duration_s": 21.13625596670085,
+    "operator_style": 0.7783302048173661,
+    "cycle_idx": 176,
+    "n_frames": 634
+  },
+  {
+    "soil_name": "dry_sand",
+    "volume_m3": 0.6333889852784639,
+    "energy_J": 1373191.6518057194,
+    "max_pen_m": 0.6833126337162121,
+    "duration_s": 20.700457297179852,
+    "operator_style": 0.6813940034576274,
+    "cycle_idx": 177,
+    "n_frames": 621
+  },
+  {
+    "soil_name": "dry_sand",
+    "volume_m3": 0.6221050367368643,
+    "energy_J": 1280192.5536425533,
+    "max_pen_m": 0.6833126337162121,
+    "duration_s": 19.326408570250614,
+    "operator_style": 0.3907550208649819,
+    "cycle_idx": 178,
+    "n_frames": 579
+  },
+  {
+    "soil_name": "dry_sand",
+    "volume_m3": 0.6278535154894549,
+    "energy_J": 1369937.6948834034,
+    "max_pen_m": 0.6833126337162121,
+    "duration_s": 20.618589724737497,
+    "operator_style": 0.6392844344106499,
+    "cycle_idx": 179,
+    "n_frames": 618
+  },
+  {
+    "soil_name": "dry_sand",
+    "volume_m3": 0.6310739465598311,
+    "energy_J": 1350604.322187628,
+    "max_pen_m": 0.6833126337162121,
+    "duration_s": 20.41638625079974,
+    "operator_style": 0.5880673621587752,
+    "cycle_idx": 180,
+    "n_frames": 612
+  },
+  {
+    "soil_name": "dry_sand",
+    "volume_m3": 0.6326288994387388,
+    "energy_J": 1292492.1101991467,
+    "max_pen_m": 0.6833126337162121,
+    "duration_s": 19.542441803377123,
+    "operator_style": 0.5743082592121771,
+    "cycle_idx": 181,
+    "n_frames": 586
+  },
+  {
+    "soil_name": "dry_sand",
+    "volume_m3": 0.6341564831389288,
+    "energy_J": 1280069.5029466874,
+    "max_pen_m": 0.6833126337162121,
+    "duration_s": 19.26000227428863,
+    "operator_style": 0.3190180125287329,
+    "cycle_idx": 182,
+    "n_frames": 577
+  },
+  {
+    "soil_name": "dry_sand",
+    "volume_m3": 0.6308921653171932,
+    "energy_J": 1420463.7185399847,
+    "max_pen_m": 0.6833126337162121,
+    "duration_s": 21.354095755928395,
+    "operator_style": 0.7555061420870761,
+    "cycle_idx": 183,
+    "n_frames": 640
+  },
+  {
+    "soil_name": "dry_sand",
+    "volume_m3": 0.6268203657849596,
+    "energy_J": 1297734.8257296248,
+    "max_pen_m": 0.6833126337162121,
+    "duration_s": 19.611417808575343,
+    "operator_style": 0.6169669695264913,
+    "cycle_idx": 184,
+    "n_frames": 588
+  },
+  {
+    "soil_name": "dry_sand",
+    "volume_m3": 0.6304342675495453,
+    "energy_J": 1413355.9933624086,
+    "max_pen_m": 0.6833126337162121,
+    "duration_s": 21.43144237121818,
+    "operator_style": 0.7591918807564983,
+    "cycle_idx": 185,
+    "n_frames": 642
+  },
+  {
+    "soil_name": "dry_sand",
+    "volume_m3": 0.627389343104095,
+    "energy_J": 1261667.2073841256,
+    "max_pen_m": 0.6833126337162121,
+    "duration_s": 19.019237346169398,
+    "operator_style": 0.429810462055251,
+    "cycle_idx": 186,
+    "n_frames": 570
+  },
+  {
+    "soil_name": "dry_sand",
+    "volume_m3": 0.6314348104198113,
+    "energy_J": 1386610.1654309898,
+    "max_pen_m": 0.6833126337162121,
+    "duration_s": 20.93531843363261,
+    "operator_style": 0.5879766885282445,
+    "cycle_idx": 187,
+    "n_frames": 628
+  },
+  {
+    "soil_name": "dry_sand",
+    "volume_m3": 0.631604049041194,
+    "energy_J": 1396961.1139313378,
+    "max_pen_m": 0.6833126337162121,
+    "duration_s": 21.071440759711113,
+    "operator_style": 0.5429494382009104,
+    "cycle_idx": 188,
+    "n_frames": 632
+  },
+  {
+    "soil_name": "dry_sand",
+    "volume_m3": 0.6290537845848261,
+    "energy_J": 1369841.5833053596,
+    "max_pen_m": 0.6833126337162121,
+    "duration_s": 20.73643604420665,
+    "operator_style": 0.496015602967156,
+    "cycle_idx": 189,
+    "n_frames": 622
+  },
+  {
+    "soil_name": "dry_sand",
+    "volume_m3": 0.6288855959457826,
+    "energy_J": 1342622.2940396061,
+    "max_pen_m": 0.6833126337162121,
+    "duration_s": 20.258002177548867,
+    "operator_style": 0.6959041564271878,
+    "cycle_idx": 190,
+    "n_frames": 607
+  },
+  {
+    "soil_name": "dry_sand",
+    "volume_m3": 0.6350588531347146,
+    "energy_J": 1351054.25332558,
+    "max_pen_m": 0.6833126337162121,
+    "duration_s": 20.458479150544264,
+    "operator_style": 0.5621785822931625,
+    "cycle_idx": 191,
+    "n_frames": 613
+  },
+  {
+    "soil_name": "dry_sand",
+    "volume_m3": 0.6290896403127331,
+    "energy_J": 1237807.1071482855,
+    "max_pen_m": 0.6833126337162121,
+    "duration_s": 18.608677292624726,
+    "operator_style": 0.3243358857388918,
+    "cycle_idx": 192,
+    "n_frames": 558
+  },
+  {
+    "soil_name": "dry_sand",
+    "volume_m3": 0.6334304172628665,
+    "energy_J": 1318744.7558058272,
+    "max_pen_m": 0.6833126337162121,
+    "duration_s": 19.89143052804746,
+    "operator_style": 0.4519015603317097,
+    "cycle_idx": 193,
+    "n_frames": 596
+  },
+  {
+    "soil_name": "dry_sand",
+    "volume_m3": 0.6302018765693133,
+    "energy_J": 1362518.878785449,
+    "max_pen_m": 0.6833126337162121,
+    "duration_s": 20.718911060938822,
+    "operator_style": 0.5951337562808858,
+    "cycle_idx": 194,
+    "n_frames": 621
+  },
+  {
+    "soil_name": "dry_sand",
+    "volume_m3": 0.6329109929898398,
+    "energy_J": 1348113.5638986533,
+    "max_pen_m": 0.6833126337162121,
+    "duration_s": 20.37195856147006,
+    "operator_style": 0.6172747947167967,
+    "cycle_idx": 195,
+    "n_frames": 611
+  },
+  {
+    "soil_name": "dry_sand",
+    "volume_m3": 0.6304986703441396,
+    "energy_J": 1372459.4448130974,
+    "max_pen_m": 0.6833126337162121,
+    "duration_s": 20.617113401366993,
+    "operator_style": 0.7068165072112064,
+    "cycle_idx": 196,
+    "n_frames": 618
+  },
+  {
+    "soil_name": "dry_sand",
+    "volume_m3": 0.6319846115355853,
+    "energy_J": 1486735.41191993,
+    "max_pen_m": 0.6833126337162121,
+    "duration_s": 22.446020986826323,
+    "operator_style": 0.7855190416121987,
+    "cycle_idx": 197,
+    "n_frames": 673
+  },
+  {
+    "soil_name": "dry_sand",
+    "volume_m3": 0.6296814450410424,
+    "energy_J": 1294164.1348318318,
+    "max_pen_m": 0.6833126337162121,
+    "duration_s": 19.60463184753221,
+    "operator_style": 0.44703428265412776,
+    "cycle_idx": 198,
+    "n_frames": 588
+  },
+  {
+    "soil_name": "dry_sand",
+    "volume_m3": 0.6293550406194918,
+    "energy_J": 1251526.5834279705,
+    "max_pen_m": 0.6833126337162121,
+    "duration_s": 18.970090403081873,
+    "operator_style": 0.340959074960943,
+    "cycle_idx": 199,
+    "n_frames": 569
+  },
+  {
+    "soil_name": "wet_sand",
+    "volume_m3": 0.6584478160338021,
+    "energy_J": 1369982.7034750537,
+    "max_pen_m": 0.71924721180648,
+    "duration_s": 20.594594286056793,
+    "operator_style": 0.6843511714746872,
+    "cycle_idx": 360,
+    "n_frames": 617
+  },
+  {
+    "soil_name": "wet_sand",
+    "volume_m3": 0.6669498716644413,
+    "energy_J": 1241397.531568762,
+    "max_pen_m": 0.71924721180648,
+    "duration_s": 18.637446688164424,
+    "operator_style": 0.36703857038489784,
+    "cycle_idx": 361,
+    "n_frames": 559
+  },
+  {
+    "soil_name": "wet_sand",
+    "volume_m3": 0.6613039548374601,
+    "energy_J": 1317659.7153763105,
+    "max_pen_m": 0.71924721180648,
+    "duration_s": 19.880906574754196,
+    "operator_style": 0.5481943283052069,
+    "cycle_idx": 362,
+    "n_frames": 596
+  },
+  {
+    "soil_name": "wet_sand",
+    "volume_m3": 0.663174185725325,
+    "energy_J": 1456120.530878679,
+    "max_pen_m": 0.71924721180648,
+    "duration_s": 21.789071984722593,
+    "operator_style": 0.777357827743944,
+    "cycle_idx": 363,
+    "n_frames": 653
+  },
+  {
+    "soil_name": "wet_sand",
+    "volume_m3": 0.6632232598978874,
+    "energy_J": 1409500.2000119844,
+    "max_pen_m": 0.71924721180648,
+    "duration_s": 21.156169628863594,
+    "operator_style": 0.7071182009923908,
+    "cycle_idx": 364,
+    "n_frames": 634
+  },
+  {
+    "soil_name": "wet_sand",
+    "volume_m3": 0.6665940673954385,
+    "energy_J": 1313450.6163067096,
+    "max_pen_m": 0.71924721180648,
+    "duration_s": 19.745927576491354,
+    "operator_style": 0.519820402282058,
+    "cycle_idx": 365,
+    "n_frames": 592
+  },
+  {
+    "soil_name": "wet_sand",
+    "volume_m3": 0.6677343606284328,
+    "energy_J": 1353628.9879281584,
+    "max_pen_m": 0.71924721180648,
+    "duration_s": 20.35798411806069,
+    "operator_style": 0.6107370575652511,
+    "cycle_idx": 366,
+    "n_frames": 610
+  },
+  {
+    "soil_name": "wet_sand",
+    "volume_m3": 0.6625670754314915,
+    "energy_J": 1271058.4995292595,
+    "max_pen_m": 0.71924721180648,
+    "duration_s": 19.120916643369355,
+    "operator_style": 0.49150634148563344,
+    "cycle_idx": 367,
+    "n_frames": 573
+  },
+  {
+    "soil_name": "wet_sand",
+    "volume_m3": 0.6639924499203438,
+    "energy_J": 1461300.9105429521,
+    "max_pen_m": 0.71924721180648,
+    "duration_s": 21.989169352103552,
+    "operator_style": 0.7977601950092734,
+    "cycle_idx": 368,
+    "n_frames": 659
+  },
+  {
+    "soil_name": "wet_sand",
+    "volume_m3": 0.6673300956730522,
+    "energy_J": 1314697.4919080948,
+    "max_pen_m": 0.71924721180648,
+    "duration_s": 19.841708887433317,
+    "operator_style": 0.47465168649826833,
+    "cycle_idx": 369,
+    "n_frames": 595
+  },
+  {
+    "soil_name": "wet_sand",
+    "volume_m3": 0.6635907672556572,
+    "energy_J": 1355161.5025539221,
+    "max_pen_m": 0.71924721180648,
+    "duration_s": 20.484966924604628,
+    "operator_style": 0.5999740311886878,
+    "cycle_idx": 370,
+    "n_frames": 614
+  },
+  {
+    "soil_name": "wet_sand",
+    "volume_m3": 0.6651697176353878,
+    "energy_J": 1315800.6243669246,
+    "max_pen_m": 0.71924721180648,
+    "duration_s": 19.799100878167707,
+    "operator_style": 0.48061182323480994,
+    "cycle_idx": 371,
+    "n_frames": 593
+  },
+  {
+    "soil_name": "wet_sand",
+    "volume_m3": 0.6597149231086494,
+    "energy_J": 1325178.374208754,
+    "max_pen_m": 0.71924721180648,
+    "duration_s": 19.889494449716764,
+    "operator_style": 0.4594133573022644,
+    "cycle_idx": 372,
+    "n_frames": 596
+  },
+  {
+    "soil_name": "wet_sand",
+    "volume_m3": 0.6666608220994771,
+    "energy_J": 1424488.2747226423,
+    "max_pen_m": 0.71924721180648,
+    "duration_s": 21.353228778334667,
+    "operator_style": 0.7084111426957249,
+    "cycle_idx": 373,
+    "n_frames": 640
+  },
+  {
+    "soil_name": "wet_sand",
+    "volume_m3": 0.6564337057547747,
+    "energy_J": 1399923.6753174942,
+    "max_pen_m": 0.71924721180648,
+    "duration_s": 20.968405607820646,
+    "operator_style": 0.715160428610145,
+    "cycle_idx": 374,
+    "n_frames": 629
+  },
+  {
+    "soil_name": "wet_sand",
+    "volume_m3": 0.6510542914189824,
+    "energy_J": 1265483.4871233357,
+    "max_pen_m": 0.71924721180648,
+    "duration_s": 18.972005643594663,
+    "operator_style": 0.4644168801665808,
+    "cycle_idx": 375,
+    "n_frames": 569
+  },
+  {
+    "soil_name": "wet_sand",
+    "volume_m3": 0.6548204756625933,
+    "energy_J": 1235418.2661064118,
+    "max_pen_m": 0.71924721180648,
+    "duration_s": 18.545427017067574,
+    "operator_style": 0.464421303175264,
+    "cycle_idx": 376,
+    "n_frames": 556
+  },
+  {
+    "soil_name": "wet_sand",
+    "volume_m3": 0.6617239053151942,
+    "energy_J": 1382223.9355022362,
+    "max_pen_m": 0.71924721180648,
+    "duration_s": 20.77500260746717,
+    "operator_style": 0.6310323769184966,
+    "cycle_idx": 377,
+    "n_frames": 623
+  },
+  {
+    "soil_name": "wet_sand",
+    "volume_m3": 0.6609372490308372,
+    "energy_J": 1256239.8950855609,
+    "max_pen_m": 0.71924721180648,
+    "duration_s": 18.79649952551769,
+    "operator_style": 0.3279468928698024,
+    "cycle_idx": 378,
+    "n_frames": 563
+  },
+  {
+    "soil_name": "wet_sand",
+    "volume_m3": 0.663744370191508,
+    "energy_J": 1422298.3380820358,
+    "max_pen_m": 0.71924721180648,
+    "duration_s": 21.374488630647438,
+    "operator_style": 0.6499385017881268,
+    "cycle_idx": 379,
+    "n_frames": 641
+  },
+  {
+    "soil_name": "wet_sand",
+    "volume_m3": 0.6640195687888669,
+    "energy_J": 1261480.1530864171,
+    "max_pen_m": 0.71924721180648,
+    "duration_s": 18.97508855582823,
+    "operator_style": 0.37317221858824395,
+    "cycle_idx": 380,
+    "n_frames": 569
+  },
+  {
+    "soil_name": "wet_sand",
+    "volume_m3": 0.6701495477726552,
+    "energy_J": 1324288.157872018,
+    "max_pen_m": 0.71924721180648,
+    "duration_s": 19.97611771504626,
+    "operator_style": 0.41125383755885614,
+    "cycle_idx": 381,
+    "n_frames": 599
+  },
+  {
+    "soil_name": "wet_sand",
+    "volume_m3": 0.6623356652809297,
+    "energy_J": 1317142.5117200273,
+    "max_pen_m": 0.71924721180648,
+    "duration_s": 19.710048416075548,
+    "operator_style": 0.3676996372115669,
+    "cycle_idx": 382,
+    "n_frames": 591
+  },
+  {
+    "soil_name": "wet_sand",
+    "volume_m3": 0.667441265048796,
+    "energy_J": 1442053.9523150097,
+    "max_pen_m": 0.71924721180648,
+    "duration_s": 21.626789481065874,
+    "operator_style": 0.7858530735527673,
+    "cycle_idx": 383,
+    "n_frames": 648
+  },
+  {
+    "soil_name": "wet_sand",
+    "volume_m3": 0.6685930080046544,
+    "energy_J": 1378825.302940323,
+    "max_pen_m": 0.71924721180648,
+    "duration_s": 20.683896886224986,
+    "operator_style": 0.5710244790132277,
+    "cycle_idx": 384,
+    "n_frames": 620
+  },
+  {
+    "soil_name": "wet_sand",
+    "volume_m3": 0.658081327433576,
+    "energy_J": 1284747.5073705604,
+    "max_pen_m": 0.71924721180648,
+    "duration_s": 19.358676330210507,
+    "operator_style": 0.34346775914442124,
+    "cycle_idx": 385,
+    "n_frames": 580
+  },
+  {
+    "soil_name": "wet_sand",
+    "volume_m3": 0.6656666211452062,
+    "energy_J": 1293600.8679388799,
+    "max_pen_m": 0.71924721180648,
+    "duration_s": 19.518726168212183,
+    "operator_style": 0.3833801327576616,
+    "cycle_idx": 386,
+    "n_frames": 585
+  },
+  {
+    "soil_name": "wet_sand",
+    "volume_m3": 0.6691930853256448,
+    "energy_J": 1322461.5979739025,
+    "max_pen_m": 0.71924721180648,
+    "duration_s": 19.8054090488501,
+    "operator_style": 0.4535295534401653,
+    "cycle_idx": 387,
+    "n_frames": 594
+  },
+  {
+    "soil_name": "wet_sand",
+    "volume_m3": 0.6660473257368246,
+    "energy_J": 1363312.7641354077,
+    "max_pen_m": 0.71924721180648,
+    "duration_s": 20.552031562219756,
+    "operator_style": 0.43677104490015123,
+    "cycle_idx": 388,
+    "n_frames": 616
+  },
+  {
+    "soil_name": "wet_sand",
+    "volume_m3": 0.6647246219164972,
+    "energy_J": 1390402.4625237086,
+    "max_pen_m": 0.71924721180648,
+    "duration_s": 20.998402437842977,
+    "operator_style": 0.7202736352559524,
+    "cycle_idx": 389,
+    "n_frames": 629
+  },
+  {
+    "soil_name": "wet_sand",
+    "volume_m3": 0.6595492340535829,
+    "energy_J": 1384505.1497818027,
+    "max_pen_m": 0.71924721180648,
+    "duration_s": 20.859487137976195,
+    "operator_style": 0.6361339470682619,
+    "cycle_idx": 390,
+    "n_frames": 625
+  },
+  {
+    "soil_name": "wet_sand",
+    "volume_m3": 0.6658586801329724,
+    "energy_J": 1303718.4794136297,
+    "max_pen_m": 0.71924721180648,
+    "duration_s": 19.569224184162273,
+    "operator_style": 0.3995088220224189,
+    "cycle_idx": 391,
+    "n_frames": 587
+  },
+  {
+    "soil_name": "wet_sand",
+    "volume_m3": 0.6704293637706292,
+    "energy_J": 1336498.024499783,
+    "max_pen_m": 0.71924721180648,
+    "duration_s": 20.100440316420602,
+    "operator_style": 0.5287287231757105,
+    "cycle_idx": 392,
+    "n_frames": 603
+  },
+  {
+    "soil_name": "wet_sand",
+    "volume_m3": 0.666243567032843,
+    "energy_J": 1389165.9501975041,
+    "max_pen_m": 0.71924721180648,
+    "duration_s": 20.94069820507089,
+    "operator_style": 0.7561489377202572,
+    "cycle_idx": 393,
+    "n_frames": 628
+  },
+  {
+    "soil_name": "wet_sand",
+    "volume_m3": 0.6638794249130123,
+    "energy_J": 1458932.2581597597,
+    "max_pen_m": 0.71924721180648,
+    "duration_s": 22.070301716816473,
+    "operator_style": 0.7633069453952098,
+    "cycle_idx": 394,
+    "n_frames": 662
+  },
+  {
+    "soil_name": "wet_sand",
+    "volume_m3": 0.6616742906155328,
+    "energy_J": 1370011.3890652421,
+    "max_pen_m": 0.71924721180648,
+    "duration_s": 20.647827053831264,
+    "operator_style": 0.6842266923564522,
+    "cycle_idx": 395,
+    "n_frames": 619
+  },
+  {
+    "soil_name": "wet_sand",
+    "volume_m3": 0.6624304605890678,
+    "energy_J": 1299042.3680637092,
+    "max_pen_m": 0.71924721180648,
+    "duration_s": 19.573007368949277,
+    "operator_style": 0.41358250119366974,
+    "cycle_idx": 396,
+    "n_frames": 587
+  },
+  {
+    "soil_name": "wet_sand",
+    "volume_m3": 0.6563669977373398,
+    "energy_J": 1265108.8999724993,
+    "max_pen_m": 0.71924721180648,
+    "duration_s": 18.914352149048934,
+    "operator_style": 0.3948078569869158,
+    "cycle_idx": 397,
+    "n_frames": 567
+  },
+  {
+    "soil_name": "wet_sand",
+    "volume_m3": 0.66839133281976,
+    "energy_J": 1305220.966061409,
+    "max_pen_m": 0.71924721180648,
+    "duration_s": 19.538387944085255,
+    "operator_style": 0.5211508498250507,
+    "cycle_idx": 398,
+    "n_frames": 586
+  },
+  {
+    "soil_name": "wet_sand",
+    "volume_m3": 0.6611170218967016,
+    "energy_J": 1299514.8587432995,
+    "max_pen_m": 0.71924721180648,
+    "duration_s": 19.625300921949147,
+    "operator_style": 0.4821031205861333,
+    "cycle_idx": 399,
+    "n_frames": 588
+  },
+  {
+    "soil_name": "clay_loam",
+    "volume_m3": 0.7025569885937438,
+    "energy_J": 1355170.5342960735,
+    "max_pen_m": 0.7038122472021837,
+    "duration_s": 20.268569018324577,
+    "operator_style": 0.540787231305848,
+    "cycle_idx": 560,
+    "n_frames": 608
+  },
+  {
+    "soil_name": "clay_loam",
+    "volume_m3": 0.7093282601830752,
+    "energy_J": 1311471.3829318613,
+    "max_pen_m": 0.7038122472021837,
+    "duration_s": 19.57073182816349,
+    "operator_style": 0.4200251997998991,
+    "cycle_idx": 561,
+    "n_frames": 587
+  },
+  {
+    "soil_name": "clay_loam",
+    "volume_m3": 0.7094249346211765,
+    "energy_J": 1304442.549649017,
+    "max_pen_m": 0.7038122472021837,
+    "duration_s": 19.513871460324193,
+    "operator_style": 0.4734057142162881,
+    "cycle_idx": 562,
+    "n_frames": 585
+  },
+  {
+    "soil_name": "clay_loam",
+    "volume_m3": 0.7077589579448763,
+    "energy_J": 1375210.937001976,
+    "max_pen_m": 0.7038122472021837,
+    "duration_s": 20.60292026155087,
+    "operator_style": 0.5725769010944997,
+    "cycle_idx": 563,
+    "n_frames": 618
+  },
+  {
+    "soil_name": "clay_loam",
+    "volume_m3": 0.705909792605573,
+    "energy_J": 1331909.0279178186,
+    "max_pen_m": 0.7038122472021837,
+    "duration_s": 19.884247292363114,
+    "operator_style": 0.439077362604881,
+    "cycle_idx": 564,
+    "n_frames": 596
+  },
+  {
+    "soil_name": "clay_loam",
+    "volume_m3": 0.7127700413122466,
+    "energy_J": 1415401.4017627316,
+    "max_pen_m": 0.7038122472021837,
+    "duration_s": 21.20092716847467,
+    "operator_style": 0.6897689077656851,
+    "cycle_idx": 565,
+    "n_frames": 636
+  },
+  {
+    "soil_name": "clay_loam",
+    "volume_m3": 0.701637600985611,
+    "energy_J": 1429498.778296736,
+    "max_pen_m": 0.7038122472021837,
+    "duration_s": 21.39523114168439,
+    "operator_style": 0.7012254465393495,
+    "cycle_idx": 566,
+    "n_frames": 641
+  },
+  {
+    "soil_name": "clay_loam",
+    "volume_m3": 0.7108603064687454,
+    "energy_J": 1319961.4150029065,
+    "max_pen_m": 0.7038122472021837,
+    "duration_s": 19.70376299318981,
+    "operator_style": 0.5139381220321632,
+    "cycle_idx": 567,
+    "n_frames": 591
+  },
+  {
+    "soil_name": "clay_loam",
+    "volume_m3": 0.706811283176436,
+    "energy_J": 1268511.0556658618,
+    "max_pen_m": 0.7038122472021837,
+    "duration_s": 18.945039818966595,
+    "operator_style": 0.331641966300714,
+    "cycle_idx": 568,
+    "n_frames": 568
+  },
+  {
+    "soil_name": "clay_loam",
+    "volume_m3": 0.7055904255173803,
+    "energy_J": 1317316.9091183331,
+    "max_pen_m": 0.7038122472021837,
+    "duration_s": 19.689934909409242,
+    "operator_style": 0.4680295033431234,
+    "cycle_idx": 569,
+    "n_frames": 590
+  },
+  {
+    "soil_name": "clay_loam",
+    "volume_m3": 0.7053895540802555,
+    "energy_J": 1301622.9124329889,
+    "max_pen_m": 0.7038122472021837,
+    "duration_s": 19.401694422365296,
+    "operator_style": 0.3767788053193261,
+    "cycle_idx": 570,
+    "n_frames": 582
+  },
+  {
+    "soil_name": "clay_loam",
+    "volume_m3": 0.713024682508699,
+    "energy_J": 1439736.7693622748,
+    "max_pen_m": 0.7038122472021837,
+    "duration_s": 21.455887738368673,
+    "operator_style": 0.6915660996959049,
+    "cycle_idx": 571,
+    "n_frames": 643
+  },
+  {
+    "soil_name": "clay_loam",
+    "volume_m3": 0.7011053285299835,
+    "energy_J": 1358255.689483698,
+    "max_pen_m": 0.7038122472021837,
+    "duration_s": 20.396348006010506,
+    "operator_style": 0.5367571769647503,
+    "cycle_idx": 572,
+    "n_frames": 611
+  },
+  {
+    "soil_name": "clay_loam",
+    "volume_m3": 0.7045432719553586,
+    "energy_J": 1414666.612160686,
+    "max_pen_m": 0.7038122472021837,
+    "duration_s": 21.19936147142492,
+    "operator_style": 0.6213191387588155,
+    "cycle_idx": 573,
+    "n_frames": 635
+  },
+  {
+    "soil_name": "clay_loam",
+    "volume_m3": 0.7102881625193397,
+    "energy_J": 1309796.9260592505,
+    "max_pen_m": 0.7038122472021837,
+    "duration_s": 19.50684966902009,
+    "operator_style": 0.39676354986443985,
+    "cycle_idx": 574,
+    "n_frames": 585
+  },
+  {
+    "soil_name": "clay_loam",
+    "volume_m3": 0.7078616257250497,
+    "energy_J": 1263788.0792170009,
+    "max_pen_m": 0.7038122472021837,
+    "duration_s": 18.92659373980648,
+    "operator_style": 0.35852585900926554,
+    "cycle_idx": 575,
+    "n_frames": 567
+  },
+  {
+    "soil_name": "clay_loam",
+    "volume_m3": 0.7050321912644213,
+    "energy_J": 1291235.9422315848,
+    "max_pen_m": 0.7038122472021837,
+    "duration_s": 19.345116529212067,
+    "operator_style": 0.38518105142957515,
+    "cycle_idx": 576,
+    "n_frames": 580
+  },
+  {
+    "soil_name": "clay_loam",
+    "volume_m3": 0.7079267323384477,
+    "energy_J": 1402740.457126681,
+    "max_pen_m": 0.7038122472021837,
+    "duration_s": 20.93923146687304,
+    "operator_style": 0.6665234358520868,
+    "cycle_idx": 577,
+    "n_frames": 628
+  },
+  {
+    "soil_name": "clay_loam",
+    "volume_m3": 0.704350290502544,
+    "energy_J": 1402500.7026159097,
+    "max_pen_m": 0.7038122472021837,
+    "duration_s": 20.910839205751117,
+    "operator_style": 0.6395745790387983,
+    "cycle_idx": 578,
+    "n_frames": 627
+  },
+  {
+    "soil_name": "clay_loam",
+    "volume_m3": 0.7034671464777097,
+    "energy_J": 1342467.6474676337,
+    "max_pen_m": 0.7038122472021837,
+    "duration_s": 20.092570611878088,
+    "operator_style": 0.6191744274399666,
+    "cycle_idx": 579,
+    "n_frames": 602
+  },
+  {
+    "soil_name": "clay_loam",
+    "volume_m3": 0.7022192476025365,
+    "energy_J": 1418905.5179477334,
+    "max_pen_m": 0.7038122472021837,
+    "duration_s": 21.214327995154726,
+    "operator_style": 0.6633564607334916,
+    "cycle_idx": 580,
+    "n_frames": 636
+  },
+  {
+    "soil_name": "clay_loam",
+    "volume_m3": 0.7077809905352482,
+    "energy_J": 1393649.4274953138,
+    "max_pen_m": 0.7038122472021837,
+    "duration_s": 20.736158301452093,
+    "operator_style": 0.59356801795028,
+    "cycle_idx": 581,
+    "n_frames": 622
+  },
+  {
+    "soil_name": "clay_loam",
+    "volume_m3": 0.71234315338544,
+    "energy_J": 1401044.1961319991,
+    "max_pen_m": 0.7038122472021837,
+    "duration_s": 20.985487125946722,
+    "operator_style": 0.6798313552367932,
+    "cycle_idx": 582,
+    "n_frames": 629
+  },
+  {
+    "soil_name": "clay_loam",
+    "volume_m3": 0.6955984725605718,
+    "energy_J": 1253187.0578538673,
+    "max_pen_m": 0.7038122472021837,
+    "duration_s": 18.701996215565753,
+    "operator_style": 0.4118003711851866,
+    "cycle_idx": 583,
+    "n_frames": 561
+  },
+  {
+    "soil_name": "clay_loam",
+    "volume_m3": 0.7068853400246327,
+    "energy_J": 1326322.7297761072,
+    "max_pen_m": 0.7038122472021837,
+    "duration_s": 19.76852496155532,
+    "operator_style": 0.5905191313561609,
+    "cycle_idx": 584,
+    "n_frames": 593
+  },
+  {
+    "soil_name": "clay_loam",
+    "volume_m3": 0.7084131895011561,
+    "energy_J": 1299394.8992526983,
+    "max_pen_m": 0.7038122472021837,
+    "duration_s": 19.365108633254373,
+    "operator_style": 0.43399647300958677,
+    "cycle_idx": 585,
+    "n_frames": 580
+  },
+  {
+    "soil_name": "clay_loam",
+    "volume_m3": 0.7082385740387809,
+    "energy_J": 1411830.369405505,
+    "max_pen_m": 0.7038122472021837,
+    "duration_s": 21.123881665897073,
+    "operator_style": 0.6331609872313123,
+    "cycle_idx": 586,
+    "n_frames": 633
+  },
+  {
+    "soil_name": "clay_loam",
+    "volume_m3": 0.7136817690336369,
+    "energy_J": 1308660.9903593361,
+    "max_pen_m": 0.7038122472021837,
+    "duration_s": 19.575312821643923,
+    "operator_style": 0.41883143350526736,
+    "cycle_idx": 587,
+    "n_frames": 587
+  },
+  {
+    "soil_name": "clay_loam",
+    "volume_m3": 0.712746665798855,
+    "energy_J": 1331634.5175343603,
+    "max_pen_m": 0.7038122472021837,
+    "duration_s": 19.853680573755888,
+    "operator_style": 0.3834337030349419,
+    "cycle_idx": 588,
+    "n_frames": 595
+  },
+  {
+    "soil_name": "clay_loam",
+    "volume_m3": 0.7117527422330487,
+    "energy_J": 1486549.039470229,
+    "max_pen_m": 0.7038122472021837,
+    "duration_s": 22.23820791764905,
+    "operator_style": 0.7068492357288065,
+    "cycle_idx": 589,
+    "n_frames": 667
+  },
+  {
+    "soil_name": "clay_loam",
+    "volume_m3": 0.7019769360992973,
+    "energy_J": 1305175.7677883494,
+    "max_pen_m": 0.7038122472021837,
+    "duration_s": 19.421619467599555,
+    "operator_style": 0.44615487960390254,
+    "cycle_idx": 590,
+    "n_frames": 582
+  },
+  {
+    "soil_name": "clay_loam",
+    "volume_m3": 0.706227645419592,
+    "energy_J": 1361273.5890726207,
+    "max_pen_m": 0.7038122472021837,
+    "duration_s": 20.445572980654457,
+    "operator_style": 0.6499944656580101,
+    "cycle_idx": 591,
+    "n_frames": 613
+  },
+  {
+    "soil_name": "clay_loam",
+    "volume_m3": 0.7088268373921363,
+    "energy_J": 1333250.4767105384,
+    "max_pen_m": 0.7038122472021837,
+    "duration_s": 19.92063962600185,
+    "operator_style": 0.4144204493923474,
+    "cycle_idx": 592,
+    "n_frames": 597
+  },
+  {
+    "soil_name": "clay_loam",
+    "volume_m3": 0.7049882327743486,
+    "energy_J": 1341234.2209743676,
+    "max_pen_m": 0.7038122472021837,
+    "duration_s": 20.035868436008965,
+    "operator_style": 0.4876768604193828,
+    "cycle_idx": 593,
+    "n_frames": 601
+  },
+  {
+    "soil_name": "clay_loam",
+    "volume_m3": 0.7085661695189961,
+    "energy_J": 1302496.513355208,
+    "max_pen_m": 0.7038122472021837,
+    "duration_s": 19.51008726263745,
+    "operator_style": 0.4092500557644124,
+    "cycle_idx": 594,
+    "n_frames": 585
+  },
+  {
+    "soil_name": "clay_loam",
+    "volume_m3": 0.7003360859392976,
+    "energy_J": 1270036.8641892525,
+    "max_pen_m": 0.7038122472021837,
+    "duration_s": 19.01152811589733,
+    "operator_style": 0.42123023365884166,
+    "cycle_idx": 595,
+    "n_frames": 570
+  },
+  {
+    "soil_name": "clay_loam",
+    "volume_m3": 0.7093167464721041,
+    "energy_J": 1385968.2324628204,
+    "max_pen_m": 0.7038122472021837,
+    "duration_s": 20.67596396051896,
+    "operator_style": 0.5724357961740973,
+    "cycle_idx": 596,
+    "n_frames": 620
+  },
+  {
+    "soil_name": "clay_loam",
+    "volume_m3": 0.7072066270782902,
+    "energy_J": 1258205.5185728527,
+    "max_pen_m": 0.7038122472021837,
+    "duration_s": 18.80482688850381,
+    "operator_style": 0.39911651573343615,
+    "cycle_idx": 597,
+    "n_frames": 564
+  },
+  {
+    "soil_name": "clay_loam",
+    "volume_m3": 0.7131044422233838,
+    "energy_J": 1263536.238786362,
+    "max_pen_m": 0.7038122472021837,
+    "duration_s": 18.945710207195198,
+    "operator_style": 0.3909345432297807,
+    "cycle_idx": 598,
+    "n_frames": 568
+  },
+  {
+    "soil_name": "clay_loam",
+    "volume_m3": 0.7087528785969464,
+    "energy_J": 1273262.6710578748,
+    "max_pen_m": 0.7038122472021837,
+    "duration_s": 19.088757671789,
+    "operator_style": 0.33237861338361424,
+    "cycle_idx": 599,
+    "n_frames": 572
+  },
+  {
+    "soil_name": "silty_loam",
+    "volume_m3": 0.6765787665369672,
+    "energy_J": 1228376.1780556373,
+    "max_pen_m": 0.6833126337162121,
+    "duration_s": 18.520422602817806,
+    "operator_style": 0.31790030082787424,
+    "cycle_idx": 760,
+    "n_frames": 555
+  },
+  {
+    "soil_name": "silty_loam",
+    "volume_m3": 0.677001228945774,
+    "energy_J": 1352608.9025957123,
+    "max_pen_m": 0.6833126337162121,
+    "duration_s": 20.271592289269446,
+    "operator_style": 0.5648138413382349,
+    "cycle_idx": 761,
+    "n_frames": 608
+  },
+  {
+    "soil_name": "silty_loam",
+    "volume_m3": 0.6697253990188294,
+    "energy_J": 1368482.0767923715,
+    "max_pen_m": 0.6833126337162121,
+    "duration_s": 20.515167882509896,
+    "operator_style": 0.491258535198658,
+    "cycle_idx": 762,
+    "n_frames": 615
+  },
+  {
+    "soil_name": "silty_loam",
+    "volume_m3": 0.6729770284780701,
+    "energy_J": 1269026.0230323118,
+    "max_pen_m": 0.6833126337162121,
+    "duration_s": 19.060953649353188,
+    "operator_style": 0.3941886781426906,
+    "cycle_idx": 763,
+    "n_frames": 571
+  },
+  {
+    "soil_name": "silty_loam",
+    "volume_m3": 0.6765082242298944,
+    "energy_J": 1338954.0593418165,
+    "max_pen_m": 0.6833126337162121,
+    "duration_s": 20.152552992644516,
+    "operator_style": 0.638688456444696,
+    "cycle_idx": 764,
+    "n_frames": 604
+  },
+  {
+    "soil_name": "silty_loam",
+    "volume_m3": 0.6767085294473096,
+    "energy_J": 1320176.6821369946,
+    "max_pen_m": 0.6833126337162121,
+    "duration_s": 19.89782802156947,
+    "operator_style": 0.4328129781144391,
+    "cycle_idx": 765,
+    "n_frames": 596
+  },
+  {
+    "soil_name": "silty_loam",
+    "volume_m3": 0.6720696752011419,
+    "energy_J": 1353490.508847948,
+    "max_pen_m": 0.6833126337162121,
+    "duration_s": 20.384105855069855,
+    "operator_style": 0.5931183534587325,
+    "cycle_idx": 766,
+    "n_frames": 611
+  },
+  {
+    "soil_name": "silty_loam",
+    "volume_m3": 0.6801048547593185,
+    "energy_J": 1320127.3255212419,
+    "max_pen_m": 0.6833126337162121,
+    "duration_s": 19.810991877885094,
+    "operator_style": 0.39981293924721983,
+    "cycle_idx": 767,
+    "n_frames": 594
+  },
+  {
+    "soil_name": "silty_loam",
+    "volume_m3": 0.6730509125376317,
+    "energy_J": 1349063.612046549,
+    "max_pen_m": 0.6833126337162121,
+    "duration_s": 20.30069380030855,
+    "operator_style": 0.6694569881541033,
+    "cycle_idx": 768,
+    "n_frames": 609
+  },
+  {
+    "soil_name": "silty_loam",
+    "volume_m3": 0.6759229508097524,
+    "energy_J": 1375656.52426976,
+    "max_pen_m": 0.6833126337162121,
+    "duration_s": 20.637171531555524,
+    "operator_style": 0.6427776790289681,
+    "cycle_idx": 769,
+    "n_frames": 619
+  },
+  {
+    "soil_name": "silty_loam",
+    "volume_m3": 0.6790893641109442,
+    "energy_J": 1274405.915011926,
+    "max_pen_m": 0.6833126337162121,
+    "duration_s": 19.17890942710151,
+    "operator_style": 0.4405119813451154,
+    "cycle_idx": 770,
+    "n_frames": 575
+  },
+  {
+    "soil_name": "silty_loam",
+    "volume_m3": 0.6785580490779075,
+    "energy_J": 1421671.2363081113,
+    "max_pen_m": 0.6833126337162121,
+    "duration_s": 21.345997711291773,
+    "operator_style": 0.7145144465085588,
+    "cycle_idx": 771,
+    "n_frames": 640
+  },
+  {
+    "soil_name": "silty_loam",
+    "volume_m3": 0.6814431071967184,
+    "energy_J": 1324157.5542984065,
+    "max_pen_m": 0.6833126337162121,
+    "duration_s": 19.854066616421232,
+    "operator_style": 0.501068534982012,
+    "cycle_idx": 772,
+    "n_frames": 595
+  },
+  {
+    "soil_name": "silty_loam",
+    "volume_m3": 0.6743788320441565,
+    "energy_J": 1364109.0579549377,
+    "max_pen_m": 0.6833126337162121,
+    "duration_s": 20.49218350495158,
+    "operator_style": 0.5024973781898721,
+    "cycle_idx": 773,
+    "n_frames": 614
+  },
+  {
+    "soil_name": "silty_loam",
+    "volume_m3": 0.6729680371089609,
+    "energy_J": 1386751.2473746913,
+    "max_pen_m": 0.6833126337162121,
+    "duration_s": 20.668931078167297,
+    "operator_style": 0.6855011084485685,
+    "cycle_idx": 774,
+    "n_frames": 620
+  },
+  {
+    "soil_name": "silty_loam",
+    "volume_m3": 0.6765540101175256,
+    "energy_J": 1317449.3632791322,
+    "max_pen_m": 0.6833126337162121,
+    "duration_s": 19.696231052963892,
+    "operator_style": 0.43964779159112843,
+    "cycle_idx": 775,
+    "n_frames": 590
+  },
+  {
+    "soil_name": "silty_loam",
+    "volume_m3": 0.6712713406381761,
+    "energy_J": 1397097.1651124153,
+    "max_pen_m": 0.6833126337162121,
+    "duration_s": 20.93708446493359,
+    "operator_style": 0.6915569674454862,
+    "cycle_idx": 776,
+    "n_frames": 628
+  },
+  {
+    "soil_name": "silty_loam",
+    "volume_m3": 0.6744214517922296,
+    "energy_J": 1282683.052728855,
+    "max_pen_m": 0.6833126337162121,
+    "duration_s": 19.14599876582359,
+    "operator_style": 0.42643240560872087,
+    "cycle_idx": 777,
+    "n_frames": 574
+  },
+  {
+    "soil_name": "silty_loam",
+    "volume_m3": 0.6763687729192088,
+    "energy_J": 1360129.7116926182,
+    "max_pen_m": 0.6833126337162121,
+    "duration_s": 20.426925851240817,
+    "operator_style": 0.6486510607712498,
+    "cycle_idx": 778,
+    "n_frames": 612
+  },
+  {
+    "soil_name": "silty_loam",
+    "volume_m3": 0.6756786346357756,
+    "energy_J": 1244747.2724624895,
+    "max_pen_m": 0.6833126337162121,
+    "duration_s": 18.713516703029427,
+    "operator_style": 0.33964742817635096,
+    "cycle_idx": 779,
+    "n_frames": 561
+  },
+  {
+    "soil_name": "silty_loam",
+    "volume_m3": 0.67772063066613,
+    "energy_J": 1345138.1617832598,
+    "max_pen_m": 0.6833126337162121,
+    "duration_s": 20.235430373510294,
+    "operator_style": 0.5864953374533972,
+    "cycle_idx": 780,
+    "n_frames": 607
+  },
+  {
+    "soil_name": "silty_loam",
+    "volume_m3": 0.6752685428518961,
+    "energy_J": 1310896.8480006878,
+    "max_pen_m": 0.6833126337162121,
+    "duration_s": 19.788228520328996,
+    "operator_style": 0.4770679130329778,
+    "cycle_idx": 781,
+    "n_frames": 593
+  },
+  {
+    "soil_name": "silty_loam",
+    "volume_m3": 0.676549928448644,
+    "energy_J": 1432646.1023127846,
+    "max_pen_m": 0.6833126337162121,
+    "duration_s": 21.497966361718095,
+    "operator_style": 0.5907152023395563,
+    "cycle_idx": 782,
+    "n_frames": 644
+  },
+  {
+    "soil_name": "silty_loam",
+    "volume_m3": 0.6801752715748381,
+    "energy_J": 1346220.9130997537,
+    "max_pen_m": 0.6833126337162121,
+    "duration_s": 20.141424169548394,
+    "operator_style": 0.5430520214758415,
+    "cycle_idx": 783,
+    "n_frames": 604
+  },
+  {
+    "soil_name": "silty_loam",
+    "volume_m3": 0.6747361051774234,
+    "energy_J": 1382167.541087377,
+    "max_pen_m": 0.6833126337162121,
+    "duration_s": 20.747200927809818,
+    "operator_style": 0.4965639361240477,
+    "cycle_idx": 784,
+    "n_frames": 622
+  },
+  {
+    "soil_name": "silty_loam",
+    "volume_m3": 0.6762945570895369,
+    "energy_J": 1314258.3547393647,
+    "max_pen_m": 0.6833126337162121,
+    "duration_s": 19.72639862774465,
+    "operator_style": 0.472683041778711,
+    "cycle_idx": 785,
+    "n_frames": 591
+  },
+  {
+    "soil_name": "silty_loam",
+    "volume_m3": 0.6701128001349698,
+    "energy_J": 1244454.3064468156,
+    "max_pen_m": 0.6833126337162121,
+    "duration_s": 18.689632827268152,
+    "operator_style": 0.37715289738420404,
+    "cycle_idx": 786,
+    "n_frames": 560
+  },
+  {
+    "soil_name": "silty_loam",
+    "volume_m3": 0.6769660810743836,
+    "energy_J": 1297141.2785572927,
+    "max_pen_m": 0.6833126337162121,
+    "duration_s": 19.409772479349474,
+    "operator_style": 0.43700085812926115,
+    "cycle_idx": 787,
+    "n_frames": 582
+  },
+  {
+    "soil_name": "silty_loam",
+    "volume_m3": 0.6797089422262412,
+    "energy_J": 1345677.1128806067,
+    "max_pen_m": 0.6833126337162121,
+    "duration_s": 20.212293032250482,
+    "operator_style": 0.4162139438083673,
+    "cycle_idx": 788,
+    "n_frames": 606
+  },
+  {
+    "soil_name": "silty_loam",
+    "volume_m3": 0.676632414720254,
+    "energy_J": 1297321.4402170575,
+    "max_pen_m": 0.6833126337162121,
+    "duration_s": 19.519754506158822,
+    "operator_style": 0.362922106394206,
+    "cycle_idx": 789,
+    "n_frames": 585
+  },
+  {
+    "soil_name": "silty_loam",
+    "volume_m3": 0.6733050108626495,
+    "energy_J": 1269326.3217885492,
+    "max_pen_m": 0.6833126337162121,
+    "duration_s": 19.003197956058077,
+    "operator_style": 0.3300067574510743,
+    "cycle_idx": 790,
+    "n_frames": 570
+  },
+  {
+    "soil_name": "silty_loam",
+    "volume_m3": 0.6802402264968108,
+    "energy_J": 1380922.1070717177,
+    "max_pen_m": 0.6833126337162121,
+    "duration_s": 20.75406729484242,
+    "operator_style": 0.6134219721256697,
+    "cycle_idx": 791,
+    "n_frames": 622
+  },
+  {
+    "soil_name": "silty_loam",
+    "volume_m3": 0.6775501248312802,
+    "energy_J": 1356855.292125138,
+    "max_pen_m": 0.6833126337162121,
+    "duration_s": 20.398890069823853,
+    "operator_style": 0.5843736765113697,
+    "cycle_idx": 792,
+    "n_frames": 611
+  },
+  {
+    "soil_name": "silty_loam",
+    "volume_m3": 0.6777680134313141,
+    "energy_J": 1414475.7604213667,
+    "max_pen_m": 0.6833126337162121,
+    "duration_s": 21.157898816467604,
+    "operator_style": 0.7413052948850716,
+    "cycle_idx": 793,
+    "n_frames": 634
+  },
+  {
+    "soil_name": "silty_loam",
+    "volume_m3": 0.6759540629429515,
+    "energy_J": 1356121.7442414812,
+    "max_pen_m": 0.6833126337162121,
+    "duration_s": 20.304862531293345,
+    "operator_style": 0.4760569507983029,
+    "cycle_idx": 794,
+    "n_frames": 609
+  },
+  {
+    "soil_name": "silty_loam",
+    "volume_m3": 0.6671042154993593,
+    "energy_J": 1326268.716915654,
+    "max_pen_m": 0.6833126337162121,
+    "duration_s": 19.921788465836293,
+    "operator_style": 0.4989979213385793,
+    "cycle_idx": 795,
+    "n_frames": 597
+  },
+  {
+    "soil_name": "silty_loam",
+    "volume_m3": 0.6765704569453536,
+    "energy_J": 1234216.640698249,
+    "max_pen_m": 0.6833126337162121,
+    "duration_s": 18.550002609875456,
+    "operator_style": 0.3567616454970942,
+    "cycle_idx": 796,
+    "n_frames": 556
+  },
+  {
+    "soil_name": "silty_loam",
+    "volume_m3": 0.6734192546259287,
+    "energy_J": 1404787.3035293808,
+    "max_pen_m": 0.6833126337162121,
+    "duration_s": 21.125657928642223,
+    "operator_style": 0.7689953171761283,
+    "cycle_idx": 797,
+    "n_frames": 633
+  },
+  {
+    "soil_name": "silty_loam",
+    "volume_m3": 0.679546776760019,
+    "energy_J": 1450909.8928483676,
+    "max_pen_m": 0.6833126337162121,
+    "duration_s": 21.789902681069258,
+    "operator_style": 0.7318438724876206,
+    "cycle_idx": 798,
+    "n_frames": 653
+  },
+  {
+    "soil_name": "silty_loam",
+    "volume_m3": 0.6826869251085266,
+    "energy_J": 1302238.0725578752,
+    "max_pen_m": 0.6833126337162121,
+    "duration_s": 19.479412640032752,
+    "operator_style": 0.4642921640197413,
+    "cycle_idx": 799,
+    "n_frames": 584
+  },
+  {
+    "soil_name": "gravel",
+    "volume_m3": 0.6454685227149158,
+    "energy_J": 1458310.415353348,
+    "max_pen_m": 0.51,
+    "duration_s": 21.982737408304423,
+    "operator_style": 0.7859491699399483,
+    "cycle_idx": 960,
+    "n_frames": 659
+  },
+  {
+    "soil_name": "gravel",
+    "volume_m3": 0.6436173019288686,
+    "energy_J": 1449242.6350290147,
+    "max_pen_m": 0.51,
+    "duration_s": 21.894313660727306,
+    "operator_style": 0.7730409168419689,
+    "cycle_idx": 961,
+    "n_frames": 656
+  },
+  {
+    "soil_name": "gravel",
+    "volume_m3": 0.6417409238122057,
+    "energy_J": 1358373.9983491225,
+    "max_pen_m": 0.51,
+    "duration_s": 20.52567744004294,
+    "operator_style": 0.6696302759584329,
+    "cycle_idx": 962,
+    "n_frames": 615
+  },
+  {
+    "soil_name": "gravel",
+    "volume_m3": 0.6316818012591042,
+    "energy_J": 1302441.4320076932,
+    "max_pen_m": 0.51,
+    "duration_s": 19.676961580265075,
+    "operator_style": 0.30547942890890495,
+    "cycle_idx": 963,
+    "n_frames": 590
+  },
+  {
+    "soil_name": "gravel",
+    "volume_m3": 0.6466295460361186,
+    "energy_J": 1257605.952339888,
+    "max_pen_m": 0.51,
+    "duration_s": 18.91976204989104,
+    "operator_style": 0.3326292258339977,
+    "cycle_idx": 964,
+    "n_frames": 567
+  },
+  {
+    "soil_name": "gravel",
+    "volume_m3": 0.6406451854051567,
+    "energy_J": 1431094.8326575614,
+    "max_pen_m": 0.51,
+    "duration_s": 21.64062148518302,
+    "operator_style": 0.7926673966281327,
+    "cycle_idx": 965,
+    "n_frames": 649
+  },
+  {
+    "soil_name": "gravel",
+    "volume_m3": 0.6418572812922324,
+    "energy_J": 1345992.401943869,
+    "max_pen_m": 0.51,
+    "duration_s": 20.346691751887743,
+    "operator_style": 0.46754427509287827,
+    "cycle_idx": 966,
+    "n_frames": 610
+  },
+  {
+    "soil_name": "gravel",
+    "volume_m3": 0.6471001900626139,
+    "energy_J": 1276056.8110473803,
+    "max_pen_m": 0.51,
+    "duration_s": 19.261029228083856,
+    "operator_style": 0.3445699629096365,
+    "cycle_idx": 967,
+    "n_frames": 577
+  },
+  {
+    "soil_name": "gravel",
+    "volume_m3": 0.6397889049112622,
+    "energy_J": 1367383.4160753014,
+    "max_pen_m": 0.51,
+    "duration_s": 20.619423583791377,
+    "operator_style": 0.7541511509910898,
+    "cycle_idx": 968,
+    "n_frames": 618
+  },
+  {
+    "soil_name": "gravel",
+    "volume_m3": 0.6445933883674817,
+    "energy_J": 1392620.2835545626,
+    "max_pen_m": 0.51,
+    "duration_s": 20.970223503698605,
+    "operator_style": 0.6745210935184147,
+    "cycle_idx": 969,
+    "n_frames": 629
+  },
+  {
+    "soil_name": "gravel",
+    "volume_m3": 0.6386102557427961,
+    "energy_J": 1299345.2955153917,
+    "max_pen_m": 0.51,
+    "duration_s": 19.646039405612044,
+    "operator_style": 0.43539929164125896,
+    "cycle_idx": 970,
+    "n_frames": 589
+  },
+  {
+    "soil_name": "gravel",
+    "volume_m3": 0.6384219029347764,
+    "energy_J": 1278887.6215189667,
+    "max_pen_m": 0.51,
+    "duration_s": 19.275939277492775,
+    "operator_style": 0.3985273329094516,
+    "cycle_idx": 971,
+    "n_frames": 578
+  },
+  {
+    "soil_name": "gravel",
+    "volume_m3": 0.6347787168399857,
+    "energy_J": 1242337.6689394866,
+    "max_pen_m": 0.51,
+    "duration_s": 18.730029714201727,
+    "operator_style": 0.37981697582805696,
+    "cycle_idx": 972,
+    "n_frames": 561
+  },
+  {
+    "soil_name": "gravel",
+    "volume_m3": 0.6421988584506588,
+    "energy_J": 1463007.5859332592,
+    "max_pen_m": 0.51,
+    "duration_s": 22.01468777307335,
+    "operator_style": 0.7501865955896981,
+    "cycle_idx": 973,
+    "n_frames": 660
+  },
+  {
+    "soil_name": "gravel",
+    "volume_m3": 0.6423451563462597,
+    "energy_J": 1272888.2859399156,
+    "max_pen_m": 0.51,
+    "duration_s": 19.15657951654291,
+    "operator_style": 0.3412277049779582,
+    "cycle_idx": 974,
+    "n_frames": 574
+  },
+  {
+    "soil_name": "gravel",
+    "volume_m3": 0.6471748575974006,
+    "energy_J": 1332155.691620939,
+    "max_pen_m": 0.51,
+    "duration_s": 20.046727214205955,
+    "operator_style": 0.36566912325766776,
+    "cycle_idx": 975,
+    "n_frames": 601
+  },
+  {
+    "soil_name": "gravel",
+    "volume_m3": 0.6388421359997933,
+    "energy_J": 1310699.9400669944,
+    "max_pen_m": 0.51,
+    "duration_s": 19.79905416112347,
+    "operator_style": 0.4161867821528886,
+    "cycle_idx": 976,
+    "n_frames": 593
+  },
+  {
+    "soil_name": "gravel",
+    "volume_m3": 0.6402997816235374,
+    "energy_J": 1285777.2845652977,
+    "max_pen_m": 0.51,
+    "duration_s": 19.3154114124709,
+    "operator_style": 0.3158948752641841,
+    "cycle_idx": 977,
+    "n_frames": 579
+  },
+  {
+    "soil_name": "gravel",
+    "volume_m3": 0.6470126814575784,
+    "energy_J": 1385159.1896868465,
+    "max_pen_m": 0.51,
+    "duration_s": 20.82699515685734,
+    "operator_style": 0.584432440126283,
+    "cycle_idx": 978,
+    "n_frames": 624
+  },
+  {
+    "soil_name": "gravel",
+    "volume_m3": 0.6360382072504409,
+    "energy_J": 1301978.9995459672,
+    "max_pen_m": 0.51,
+    "duration_s": 19.642275839344997,
+    "operator_style": 0.6130278980362631,
+    "cycle_idx": 979,
+    "n_frames": 589
+  },
+  {
+    "soil_name": "gravel",
+    "volume_m3": 0.6426280111600986,
+    "energy_J": 1256912.0699825853,
+    "max_pen_m": 0.51,
+    "duration_s": 18.943036294388325,
+    "operator_style": 0.5019544984089136,
+    "cycle_idx": 980,
+    "n_frames": 568
+  },
+  {
+    "soil_name": "gravel",
+    "volume_m3": 0.6462867760248986,
+    "energy_J": 1425296.9765689378,
+    "max_pen_m": 0.51,
+    "duration_s": 21.533448592078273,
+    "operator_style": 0.7352826236224195,
+    "cycle_idx": 981,
+    "n_frames": 646
+  },
+  {
+    "soil_name": "gravel",
+    "volume_m3": 0.6460455360301124,
+    "energy_J": 1316792.5535272397,
+    "max_pen_m": 0.51,
+    "duration_s": 19.80196434034235,
+    "operator_style": 0.4397071124361867,
+    "cycle_idx": 982,
+    "n_frames": 594
+  },
+  {
+    "soil_name": "gravel",
+    "volume_m3": 0.6400179252853152,
+    "energy_J": 1456625.0545313843,
+    "max_pen_m": 0.51,
+    "duration_s": 21.910167424110096,
+    "operator_style": 0.7349370625577081,
+    "cycle_idx": 983,
+    "n_frames": 657
+  },
+  {
+    "soil_name": "gravel",
+    "volume_m3": 0.6405254820314986,
+    "energy_J": 1401543.9712534351,
+    "max_pen_m": 0.51,
+    "duration_s": 21.08055154889182,
+    "operator_style": 0.6853551187634568,
+    "cycle_idx": 984,
+    "n_frames": 632
+  },
+  {
+    "soil_name": "gravel",
+    "volume_m3": 0.6444696822791357,
+    "energy_J": 1455444.4735976353,
+    "max_pen_m": 0.51,
+    "duration_s": 21.916592833472883,
+    "operator_style": 0.7195553737855296,
+    "cycle_idx": 985,
+    "n_frames": 657
+  },
+  {
+    "soil_name": "gravel",
+    "volume_m3": 0.6397583781149425,
+    "energy_J": 1267657.7999544302,
+    "max_pen_m": 0.51,
+    "duration_s": 19.19157181827281,
+    "operator_style": 0.35896658442851925,
+    "cycle_idx": 986,
+    "n_frames": 575
+  },
+  {
+    "soil_name": "gravel",
+    "volume_m3": 0.6441107341126572,
+    "energy_J": 1363647.1404661508,
+    "max_pen_m": 0.51,
+    "duration_s": 20.55827339370042,
+    "operator_style": 0.48264927263179436,
+    "cycle_idx": 987,
+    "n_frames": 616
+  },
+  {
+    "soil_name": "gravel",
+    "volume_m3": 0.6432188497602762,
+    "energy_J": 1310784.2216859064,
+    "max_pen_m": 0.51,
+    "duration_s": 19.779237618122423,
+    "operator_style": 0.41568658021291593,
+    "cycle_idx": 988,
+    "n_frames": 593
+  },
+  {
+    "soil_name": "gravel",
+    "volume_m3": 0.6367096122090002,
+    "energy_J": 1375995.8544514994,
+    "max_pen_m": 0.51,
+    "duration_s": 20.700590050589913,
+    "operator_style": 0.5936582225042069,
+    "cycle_idx": 989,
+    "n_frames": 621
+  },
+  {
+    "soil_name": "gravel",
+    "volume_m3": 0.636077317918429,
+    "energy_J": 1305739.5586738966,
+    "max_pen_m": 0.51,
+    "duration_s": 19.686748448387966,
+    "operator_style": 0.4866902094707781,
+    "cycle_idx": 990,
+    "n_frames": 590
+  },
+  {
+    "soil_name": "gravel",
+    "volume_m3": 0.6365867048629263,
+    "energy_J": 1360431.6406658522,
+    "max_pen_m": 0.51,
+    "duration_s": 20.50148511755633,
+    "operator_style": 0.6942894301805048,
+    "cycle_idx": 991,
+    "n_frames": 615
+  },
+  {
+    "soil_name": "gravel",
+    "volume_m3": 0.6361302619212925,
+    "energy_J": 1275953.6419113441,
+    "max_pen_m": 0.51,
+    "duration_s": 19.221671576763445,
+    "operator_style": 0.4754759313996835,
+    "cycle_idx": 992,
+    "n_frames": 576
+  },
+  {
+    "soil_name": "gravel",
+    "volume_m3": 0.6413410198180974,
+    "energy_J": 1355937.8599943398,
+    "max_pen_m": 0.51,
+    "duration_s": 20.546936338252056,
+    "operator_style": 0.6773505665152206,
+    "cycle_idx": 993,
+    "n_frames": 616
+  },
+  {
+    "soil_name": "gravel",
+    "volume_m3": 0.6357946514283251,
+    "energy_J": 1295220.5662037616,
+    "max_pen_m": 0.51,
+    "duration_s": 19.527520161183865,
+    "operator_style": 0.47496142425121324,
+    "cycle_idx": 994,
+    "n_frames": 585
+  },
+  {
+    "soil_name": "gravel",
+    "volume_m3": 0.6400287511403414,
+    "energy_J": 1399056.9064870842,
+    "max_pen_m": 0.51,
+    "duration_s": 21.06427024185693,
+    "operator_style": 0.6864353577289879,
+    "cycle_idx": 995,
+    "n_frames": 631
+  },
+  {
+    "soil_name": "gravel",
+    "volume_m3": 0.6393724959839333,
+    "energy_J": 1378358.8845756552,
+    "max_pen_m": 0.51,
+    "duration_s": 20.7440873518314,
+    "operator_style": 0.49604655873916864,
+    "cycle_idx": 996,
+    "n_frames": 622
+  },
+  {
+    "soil_name": "gravel",
+    "volume_m3": 0.6412213081378916,
+    "energy_J": 1333283.985079222,
+    "max_pen_m": 0.51,
+    "duration_s": 20.15939039393276,
+    "operator_style": 0.5132941712853358,
+    "cycle_idx": 997,
+    "n_frames": 604
+  },
+  {
+    "soil_name": "gravel",
+    "volume_m3": 0.6413242686356334,
+    "energy_J": 1430558.4907632833,
+    "max_pen_m": 0.51,
+    "duration_s": 21.520169943407797,
+    "operator_style": 0.7474598299690821,
+    "cycle_idx": 998,
+    "n_frames": 645
+  },
+  {
+    "soil_name": "gravel",
+    "volume_m3": 0.6404290917216285,
+    "energy_J": 1435511.8184377411,
+    "max_pen_m": 0.51,
+    "duration_s": 21.636334403316756,
+    "operator_style": 0.7866116991140958,
+    "cycle_idx": 999,
+    "n_frames": 649
+  },
+  {
+    "soil_name": "wet_clay",
+    "volume_m3": 0.7501878721415884,
+    "energy_J": 1233433.9018471432,
+    "max_pen_m": 0.7394698182261411,
+    "duration_s": 18.241259336692536,
+    "operator_style": 0.35257993541239707,
+    "cycle_idx": 1160,
+    "n_frames": 547
+  },
+  {
+    "soil_name": "wet_clay",
+    "volume_m3": 0.7552236209640015,
+    "energy_J": 1400506.4187707002,
+    "max_pen_m": 0.7394698182261411,
+    "duration_s": 20.871673482973108,
+    "operator_style": 0.5670595555581641,
+    "cycle_idx": 1161,
+    "n_frames": 626
+  },
+  {
+    "soil_name": "wet_clay",
+    "volume_m3": 0.754165173895345,
+    "energy_J": 1288963.541815619,
+    "max_pen_m": 0.7394698182261411,
+    "duration_s": 19.16071242103727,
+    "operator_style": 0.4129312970034869,
+    "cycle_idx": 1162,
+    "n_frames": 574
+  },
+  {
+    "soil_name": "wet_clay",
+    "volume_m3": 0.7639501335633151,
+    "energy_J": 1439846.859796,
+    "max_pen_m": 0.7394698182261411,
+    "duration_s": 21.41380141616319,
+    "operator_style": 0.7062795583283066,
+    "cycle_idx": 1163,
+    "n_frames": 642
+  },
+  {
+    "soil_name": "wet_clay",
+    "volume_m3": 0.7683142197910767,
+    "energy_J": 1391952.2587999492,
+    "max_pen_m": 0.7394698182261411,
+    "duration_s": 20.61563295316196,
+    "operator_style": 0.6999163524279097,
+    "cycle_idx": 1164,
+    "n_frames": 618
+  },
+  {
+    "soil_name": "wet_clay",
+    "volume_m3": 0.7592597123269836,
+    "energy_J": 1462095.1053667793,
+    "max_pen_m": 0.7394698182261411,
+    "duration_s": 21.717108415134252,
+    "operator_style": 0.7449256135881624,
+    "cycle_idx": 1165,
+    "n_frames": 651
+  },
+  {
+    "soil_name": "wet_clay",
+    "volume_m3": 0.7550454485459714,
+    "energy_J": 1412193.4293270041,
+    "max_pen_m": 0.7394698182261411,
+    "duration_s": 21.130931254127724,
+    "operator_style": 0.6272842847307718,
+    "cycle_idx": 1166,
+    "n_frames": 633
+  },
+  {
+    "soil_name": "wet_clay",
+    "volume_m3": 0.7522891518150444,
+    "energy_J": 1406563.9371612247,
+    "max_pen_m": 0.7394698182261411,
+    "duration_s": 20.89045659311069,
+    "operator_style": 0.691151379192533,
+    "cycle_idx": 1167,
+    "n_frames": 626
+  },
+  {
+    "soil_name": "wet_clay",
+    "volume_m3": 0.7616393649212992,
+    "energy_J": 1317219.30354675,
+    "max_pen_m": 0.7394698182261411,
+    "duration_s": 19.56502834968434,
+    "operator_style": 0.361596711890894,
+    "cycle_idx": 1168,
+    "n_frames": 586
+  },
+  {
+    "soil_name": "wet_clay",
+    "volume_m3": 0.754094146635295,
+    "energy_J": 1399488.8571475518,
+    "max_pen_m": 0.7394698182261411,
+    "duration_s": 20.767545992370696,
+    "operator_style": 0.6327627864704333,
+    "cycle_idx": 1169,
+    "n_frames": 623
+  },
+  {
+    "soil_name": "wet_clay",
+    "volume_m3": 0.7635702560306721,
+    "energy_J": 1498974.4094677032,
+    "max_pen_m": 0.7394698182261411,
+    "duration_s": 22.184616411984038,
+    "operator_style": 0.7442965991170402,
+    "cycle_idx": 1170,
+    "n_frames": 665
+  },
+  {
+    "soil_name": "wet_clay",
+    "volume_m3": 0.7564575242982127,
+    "energy_J": 1327020.4969022758,
+    "max_pen_m": 0.7394698182261411,
+    "duration_s": 19.801741576021634,
+    "operator_style": 0.5038039176913233,
+    "cycle_idx": 1171,
+    "n_frames": 594
+  },
+  {
+    "soil_name": "wet_clay",
+    "volume_m3": 0.75943515783557,
+    "energy_J": 1361585.6652503016,
+    "max_pen_m": 0.7394698182261411,
+    "duration_s": 20.399442516751318,
+    "operator_style": 0.6289957794330914,
+    "cycle_idx": 1172,
+    "n_frames": 611
+  },
+  {
+    "soil_name": "wet_clay",
+    "volume_m3": 0.7664849833784012,
+    "energy_J": 1394329.318929607,
+    "max_pen_m": 0.7394698182261411,
+    "duration_s": 20.763548368183834,
+    "operator_style": 0.6029374146090816,
+    "cycle_idx": 1173,
+    "n_frames": 622
+  },
+  {
+    "soil_name": "wet_clay",
+    "volume_m3": 0.7520518165496941,
+    "energy_J": 1354306.0723911612,
+    "max_pen_m": 0.7394698182261411,
+    "duration_s": 20.093019151006168,
+    "operator_style": 0.4556601401851872,
+    "cycle_idx": 1174,
+    "n_frames": 602
+  },
+  {
+    "soil_name": "wet_clay",
+    "volume_m3": 0.7551182896485827,
+    "energy_J": 1286571.8858809643,
+    "max_pen_m": 0.7394698182261411,
+    "duration_s": 19.10616484384553,
+    "operator_style": 0.34746654591502124,
+    "cycle_idx": 1175,
+    "n_frames": 573
+  },
+  {
+    "soil_name": "wet_clay",
+    "volume_m3": 0.761685160395613,
+    "energy_J": 1448401.823210632,
+    "max_pen_m": 0.7394698182261411,
+    "duration_s": 21.47114000683566,
+    "operator_style": 0.6608574222782522,
+    "cycle_idx": 1176,
+    "n_frames": 644
+  },
+  {
+    "soil_name": "wet_clay",
+    "volume_m3": 0.7549619280026475,
+    "energy_J": 1388524.4638647463,
+    "max_pen_m": 0.7394698182261411,
+    "duration_s": 20.48054239901688,
+    "operator_style": 0.6831671595945341,
+    "cycle_idx": 1177,
+    "n_frames": 614
+  },
+  {
+    "soil_name": "wet_clay",
+    "volume_m3": 0.7537617404501411,
+    "energy_J": 1435209.0729427792,
+    "max_pen_m": 0.7394698182261411,
+    "duration_s": 21.330345604654674,
+    "operator_style": 0.6264528776509355,
+    "cycle_idx": 1178,
+    "n_frames": 639
+  },
+  {
+    "soil_name": "wet_clay",
+    "volume_m3": 0.758846346917274,
+    "energy_J": 1308169.8895682301,
+    "max_pen_m": 0.7394698182261411,
+    "duration_s": 19.425710749286203,
+    "operator_style": 0.4583960072872747,
+    "cycle_idx": 1179,
+    "n_frames": 582
+  },
+  {
+    "soil_name": "wet_clay",
+    "volume_m3": 0.7660860056677723,
+    "energy_J": 1244047.4145334512,
+    "max_pen_m": 0.7394698182261411,
+    "duration_s": 18.554820089218715,
+    "operator_style": 0.37236183885596164,
+    "cycle_idx": 1180,
+    "n_frames": 556
+  },
+  {
+    "soil_name": "wet_clay",
+    "volume_m3": 0.7628155238486293,
+    "energy_J": 1305678.7585601863,
+    "max_pen_m": 0.7394698182261411,
+    "duration_s": 19.383564403481873,
+    "operator_style": 0.5780940834367613,
+    "cycle_idx": 1181,
+    "n_frames": 581
+  },
+  {
+    "soil_name": "wet_clay",
+    "volume_m3": 0.7613895622234552,
+    "energy_J": 1428465.7379198254,
+    "max_pen_m": 0.7394698182261411,
+    "duration_s": 21.278592016826018,
+    "operator_style": 0.7218932596339309,
+    "cycle_idx": 1182,
+    "n_frames": 638
+  },
+  {
+    "soil_name": "wet_clay",
+    "volume_m3": 0.7572988989662356,
+    "energy_J": 1437311.0805600695,
+    "max_pen_m": 0.7394698182261411,
+    "duration_s": 21.479684304962237,
+    "operator_style": 0.6325185578450745,
+    "cycle_idx": 1183,
+    "n_frames": 644
+  },
+  {
+    "soil_name": "wet_clay",
+    "volume_m3": 0.7584784162515904,
+    "energy_J": 1493192.440452828,
+    "max_pen_m": 0.7394698182261411,
+    "duration_s": 22.127597370516792,
+    "operator_style": 0.7782514294321075,
+    "cycle_idx": 1184,
+    "n_frames": 663
+  },
+  {
+    "soil_name": "wet_clay",
+    "volume_m3": 0.7630962938742099,
+    "energy_J": 1313500.1777931056,
+    "max_pen_m": 0.7394698182261411,
+    "duration_s": 19.489651188228468,
+    "operator_style": 0.3087289099447035,
+    "cycle_idx": 1185,
+    "n_frames": 584
+  },
+  {
+    "soil_name": "wet_clay",
+    "volume_m3": 0.7586927954461724,
+    "energy_J": 1412073.168898285,
+    "max_pen_m": 0.7394698182261411,
+    "duration_s": 21.03240239259545,
+    "operator_style": 0.6339870295610027,
+    "cycle_idx": 1186,
+    "n_frames": 630
+  },
+  {
+    "soil_name": "wet_clay",
+    "volume_m3": 0.7633059297243098,
+    "energy_J": 1335350.9394768595,
+    "max_pen_m": 0.7394698182261411,
+    "duration_s": 19.908685450473797,
+    "operator_style": 0.448898284176724,
+    "cycle_idx": 1187,
+    "n_frames": 597
+  },
+  {
+    "soil_name": "wet_clay",
+    "volume_m3": 0.7581933607027167,
+    "energy_J": 1426298.3724286808,
+    "max_pen_m": 0.7394698182261411,
+    "duration_s": 21.23944098597256,
+    "operator_style": 0.5897509218533857,
+    "cycle_idx": 1188,
+    "n_frames": 637
+  },
+  {
+    "soil_name": "wet_clay",
+    "volume_m3": 0.7681482641471798,
+    "energy_J": 1481714.332929203,
+    "max_pen_m": 0.7394698182261411,
+    "duration_s": 21.923937284715134,
+    "operator_style": 0.775888544827473,
+    "cycle_idx": 1189,
+    "n_frames": 657
+  },
+  {
+    "soil_name": "wet_clay",
+    "volume_m3": 0.7575779243739519,
+    "energy_J": 1405978.1066958224,
+    "max_pen_m": 0.7394698182261411,
+    "duration_s": 20.837177506834493,
+    "operator_style": 0.5291263395426755,
+    "cycle_idx": 1190,
+    "n_frames": 625
+  },
+  {
+    "soil_name": "wet_clay",
+    "volume_m3": 0.7535817690385715,
+    "energy_J": 1305564.4048929876,
+    "max_pen_m": 0.7394698182261411,
+    "duration_s": 19.317378250204982,
+    "operator_style": 0.4575830537955654,
+    "cycle_idx": 1191,
+    "n_frames": 579
+  },
+  {
+    "soil_name": "wet_clay",
+    "volume_m3": 0.7610873504072732,
+    "energy_J": 1343067.112393175,
+    "max_pen_m": 0.7394698182261411,
+    "duration_s": 19.925854994956804,
+    "operator_style": 0.5296505457836219,
+    "cycle_idx": 1192,
+    "n_frames": 597
+  },
+  {
+    "soil_name": "wet_clay",
+    "volume_m3": 0.7610291035968221,
+    "energy_J": 1469839.4672441736,
+    "max_pen_m": 0.7394698182261411,
+    "duration_s": 21.852338126053453,
+    "operator_style": 0.7924075722087642,
+    "cycle_idx": 1193,
+    "n_frames": 655
+  },
+  {
+    "soil_name": "wet_clay",
+    "volume_m3": 0.7562353888571914,
+    "energy_J": 1337640.8598063115,
+    "max_pen_m": 0.7394698182261411,
+    "duration_s": 19.921635202746298,
+    "operator_style": 0.4725893974335949,
+    "cycle_idx": 1194,
+    "n_frames": 597
+  },
+  {
+    "soil_name": "wet_clay",
+    "volume_m3": 0.7673200688426338,
+    "energy_J": 1325917.190220393,
+    "max_pen_m": 0.7394698182261411,
+    "duration_s": 19.702286337529408,
+    "operator_style": 0.34090139971807343,
+    "cycle_idx": 1195,
+    "n_frames": 591
+  },
+  {
+    "soil_name": "wet_clay",
+    "volume_m3": 0.7567059035603481,
+    "energy_J": 1412367.0868894793,
+    "max_pen_m": 0.7394698182261411,
+    "duration_s": 21.00675998098972,
+    "operator_style": 0.6740169071229059,
+    "cycle_idx": 1196,
+    "n_frames": 630
+  },
+  {
+    "soil_name": "wet_clay",
+    "volume_m3": 0.7585869749135647,
+    "energy_J": 1419454.2394708474,
+    "max_pen_m": 0.7394698182261411,
+    "duration_s": 21.087301784328112,
+    "operator_style": 0.7074726443438226,
+    "cycle_idx": 1197,
+    "n_frames": 632
+  },
+  {
+    "soil_name": "wet_clay",
+    "volume_m3": 0.7570784616066675,
+    "energy_J": 1275816.2384390512,
+    "max_pen_m": 0.7394698182261411,
+    "duration_s": 18.946156941144565,
+    "operator_style": 0.32832730212687466,
+    "cycle_idx": 1198,
+    "n_frames": 568
+  },
+  {
+    "soil_name": "wet_clay",
+    "volume_m3": 0.7632737597500991,
+    "energy_J": 1428181.49231578,
+    "max_pen_m": 0.7394698182261411,
+    "duration_s": 21.323917293533725,
+    "operator_style": 0.6209389777035501,
+    "cycle_idx": 1199,
+    "n_frames": 639
+  }
+]
